@@ -1,0 +1,27 @@
+# Environment and secrets (never commit API keys)
+.env
+.env.local
+.env.*.local
+*.key
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.venv/
+env/
+
+# IDE / OS
+.idea/
+.DS_Store
+*.swp
+*.swo
+
+# Large video assets (GitHub file size limit 100 MB)
+assets/tree_ground.MOV
+assets/*.MOV
+assets/*.mov

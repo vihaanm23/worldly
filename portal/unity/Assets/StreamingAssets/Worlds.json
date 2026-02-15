@@ -1,8 +1,0 @@
-{
-  "worlds": [
-    {
-      "displayName": "Example World",
-      "marbleUrl": "https://marble.worldlabs.ai/world/your-world-id"
-    }
-  ]
-}

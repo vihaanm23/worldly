@@ -1,0 +1,45 @@
+{
+  "worlds": [
+    {
+      "displayName": "Jensen Huang Engineering Center",
+      "title": "Jensen Huang",
+      "subtitle": "Engineering Center",
+      "marbleUrl": "https://marble.worldlabs.ai/worldvr/e5094241-5b1f-480b-81d2-1b8d622e4b47",
+      "thumbnailUrl": "thumbnails/huang-center.jpg",
+      "description": "A striking modern building at the heart of campus, named for the NVIDIA co-founder.",
+      "location": "Stanford, CA",
+      "visited": "Feb 2026"
+    },
+    {
+      "displayName": "Stanford Church",
+      "title": "Stanford",
+      "subtitle": "Memorial Church",
+      "marbleUrl": "https://marble.worldlabs.ai/worldvr/ecc3945a-4313-4078-a869-0a4919ec27e5",
+      "thumbnailUrl": "thumbnails/stanford-church.jpg",
+      "description": "An iconic Romanesque Revival masterpiece featuring stunning mosaics and an ornate facade at the heart of campus.",
+      "location": "Stanford, CA",
+      "visited": "Jan 2026"
+    },
+    {
+      "displayName": "Outside Jensen Huang Engineering Center",
+      "title": "Jensen Huang",
+      "subtitle": "Engineering Center (Exterior)",
+      "marbleUrl": "https://marble.worldlabs.ai/worldvr/7b36be85-6e0b-47eb-8fee-0e1b8716b044",
+      "thumbnailUrl": "thumbnails/outside-huang.jpg",
+      "description": "Explore the grounds and exterior of the Jensen Huang Engineering Center.",
+      "location": "Stanford, CA",
+      "visited": "Dec 2025"
+    },
+    {
+      "displayName": "Stanford Tower",
+      "title": "Stanford",
+      "subtitle": "Hoover Tower",
+      "marbleUrl": "https://marble.worldlabs.ai/worldvr/6d31139d-2c0e-4d6b-ad87-fc1821800ef3",
+      "thumbnailUrl": "thumbnails/stanford-tower.jpg",
+      "thumbnailPosition": "top",
+      "description": "The landmark Hoover Tower offers panoramic views and houses the Hoover Institution.",
+      "location": "Stanford, CA",
+      "visited": "Nov 2025"
+    }
+  ]
+}
